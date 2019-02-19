@@ -1,0 +1,14 @@
+[user]
+	name = fcsm-andrei
+	email = andreileonchikov@gmail.com
+
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	s = status
+	al = add .
+	cp = cherry-pick
+	cm = commit -m
+	nr = npm run
+
